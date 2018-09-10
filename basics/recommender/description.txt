@@ -1,0 +1,1 @@
+In this folder I tackle the recomendation form of supervised learning, and build a model that creates recomendations. 

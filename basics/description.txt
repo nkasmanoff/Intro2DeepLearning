@@ -1,0 +1,1 @@
+This folder is based on the mathematical roots of deep learning. I'll be designing a simple NN to attach a simpler problem, and in the process gain a better understanding of how the model is built, learns, and can be applied. 
